@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+}
+ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.mcd_logo{
+
+	text-align: center;
+}
+.mcd_logo a{
+	display: block;
+	cursor: pointer;
+	text-align: center;
+}
+#mcd_l{
+	width: 120px;
+}
+.menu{
+	text-align: center;
+}
+.depth1{
+	display: inline-block;
+}
+.depth1>li{
+	float: left;
+	padding-left: 4rem;
+	padding-right: 4rem;
+}
+#mcd_i{
+	width: 100%;
+	padding-top: 30px;
+}
